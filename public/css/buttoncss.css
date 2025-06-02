@@ -1,0 +1,194 @@
+#staticBackdop2 .modal-dialog{margin-left: 5vw;margin-right: 5vw;}
+.cardsize{width:12rem;}
+.clickbutton {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #ca1d1d;
+  border: none;
+  border: solid 2px #999;
+  border-radius: 50%;
+  box-shadow: 0 6px #999;
+}
+.clickbutton:hover {background-color: #df3535}
+.clickbutton:active {
+  background-color: #c73434;
+  box-shadow: 0 5px #666;
+  border: solid 2px #999;
+  transform: translateY(2px);
+}
+.btndiv{  max-width: 100px;}
+.btndiv .btn-ads{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.btn-ads{
+  background-image: url("ads.svg") ;
+  background-repeat: no-repeat;
+  height: 60px;
+}
+.whitebox{
+  border-radius: 20%;
+  background: #fff;
+  height: 25px;
+  width: 25px;
+  transform: rotateX(40deg) rotateY(40deg) rotateZ(40deg);
+}
+.Pnlbtn{ position: absolute; bottom: 16%;}
+.bottomcash{position: absolute; bottom:9% ; width:1300px;}
+.startbtn{margin-left:100px; margin-top:100px;}
+.startbtn .button{height:67px; width: 94px;}
+.Pnlbtn{margin-bottom: -479px}
+
+@media only screen and (max-width: 2560px){}
+
+@media only screen and (min-width: 1601px) and (max-width: 1920px){
+.flagdrop{margin-top: -185px;}.dropimg img{margin-left: -64px;}
+.flagdrop .col img{width:34%;}.flagdrop2 {margin-top: -193px;}
+.marl1{margin-left: 32px;}
+.mb-ads{margin-bottom: 82px!important;}
+.btn-over-image{right: -6%;bottom: 5%; padding: 0;}
+.buttons{width: 100vw;margin-right: 0;}.Pnlbtn{margin-bottom: -160px;}
+.cashbackground img{width: 36px;margin-top: -6px;}.cashbackground p {font-size: 30px;}
+.cashbackground{min-width: 157px;padding-right: 5px;}.topcash {top: 30px; left: 35px;}
+.topcashcard{right: 8%;}
+.adsFlagcard {width: 16rem; border: none; margin-top: 0px;}
+.flagrow1 {margin-top: -470px;margin-left: 27px;}.flagrow2 img{margin-left: 74px;margin-top: 5px;}
+.modalsize2{width:80vw;} #staticBackdop2 .modal-dialog{margin-left: 10vw;margin-right:10vw;}
+.flagrow3 {margin-top: 76px;}.row4 .flagK2M {margin-top: 18px;margin-bottom:0;}
+.stg1{font-size: 1.9rem!important;}
+}
+@media only screen and (min-width: 1541px) and (max-width: 1600px){
+  .buttons{width: 100vw;margin-right: 0;}.Pnlbtn{margin-bottom: -120px;}
+  .flagdrop {margin-top: -173px;}.flagdrop2 {margin-top: -181px;}
+  .cashbackground img{width: 28px;margin-top: -8px;}.cashbackground p {font-size: 24px;}
+  .cashbackground{min-width: 113px;padding-right: 6px;}.topcash {top: 30px; left: 35px;}
+  .topcashcard{right: 10%;}.flagrow1 {margin-top: -446px;margin-left: 27px;}
+  .flagrow2 img{margin-left: 68px;margin-top: 1px;}
+  .modalsize2{width:76vw;} #staticBackdop2 .modal-dialog{margin-left: 12vw;margin-right:12vw;}
+.flagrow3 {margin-top: 67px;}.row4 .flagK2M {margin-top: 10px;margin-bottom:26px;}
+.stg1{font-size: 1.4rem!important;}
+}
+
+@media only screen and (max-width: 1540px){
+.stg1{font-size: 1.4rem!important;}
+}
+
+@media only screen and (min-width: 1440px) and (max-width: 1539px){
+.flagdrop {margin-top: -159px;}.marl1 {margin-left: 30px;}.dropimg img{margin-left: -60px;}
+.mb-ads {margin-bottom: 14px!important;}.cashbackground {min-width: 110px; padding-right: 4px;}
+.buttons{float: right;}
+.Pnlbtn {margin-bottom: -116px;}.buttons img {width: 150px;}
+.buttons{width: 100vw};.flagdrop{margin-top: -158px;}.flagdrop2{margin-top: -166px;}
+.btn-over-image button {height: 28px; width: 28px;} .btn-over-image{right: -4%;bottom: 7%; padding: 0;}
+.topcash {top: 22px; left: 35px;}.cashbackground img{width: 26px; margin-top: -5px;}
+.cashbackground {min-width: 106px;padding-right: 5px;}.cashbackground p{font-size: 22px;}
+.stg1{font-size: 1.4rem!important;}.flagrow1 {margin-top: -446px;}
+  }
+
+@media only screen and (min-width: 1366px) and (max-width: 1439px){
+.bottomcash{ bottom:9% ; width: 1100px;}
+.flagdrop2{margin-top: -159px;}
+.bottomcash{bottom: 62px;}.buttons{margin-right: -5%;}.Pnlbtn{margin-bottom:-105px!important;}
+.stg1{font-size: 1.2rem!important;}
+}
+
+
+@media only screen and (max-width: 600px){}
+
+.clickherebutton{
+background: rgb(20,114,41);
+font-size: 12px;
+width: 71px;
+color: black;
+padding: 0 5px;
+margin-top:-36px;
+border-radius: 20px;
+border: 1px solid black;
+margin-bottom: 0;
+}
+
+
+/* */ /* */
+@media screen  and  (max-width: 768px){
+.cashbackground{min-width:70px;} .topcash{margin: 4px 0px 0px -8px;}
+.cashbackground p{font-size: 14px} .cashbackground img{width:16px; margin-right: 3px;}
+.cashbackground{padding: 2px 5px;}
+.Pnlbtn{margin-bottom: -56%;} .buttons img{width:125px;}
+.bottomcash{width:660px;}.buttons{margin-right:-6%}
+.startbtn .button{height: 45px; width: 72px;}
+.flagrow1{margin-top: -264px; margin-left: 11px;} .flagrow1 .flagP2M{margin-left: -7px;}
+.flagrow1 img{width: 33px;} .flagrow2{margin-left: 44px} .flagrow2 img{width: 32px; margin-left: 0px;} 
+.flagrow3 img{width: 34px;} .flagrow3{margin-top: 42px; margin-left: 11px;} .flagrow3 .flagY2M{margin-left: -7px;}
+.row4 .flagK2M{width: 32px;margin-top: 9px;}
+#copy_desc{margin-right:5px;}
+#dest_copy{margin-left:5px}
+.flagdrop{margin-top: -103px;} .flagdrop2{margin-top: -110px;}
+.Iteimg{width: 135px;} .imgiwidth{width: 110px;}
+.card-title{width: 240px;font-size: 12px;} .stimg{width:120px;} .spimg{width: 92px;} .spimg2{width: 116px;}
+.bgwhite p{font-size: 15px}  
+.modal-dialog{max-width: fit-content;}
+.modalcont1{width: 450px;}
+.title{min-height: 32PX;}
+.nobg{ padding:232px;top:-249px; }
+.card3 img{width: 58px;height: 72px;}
+.modalcont2{width: 390px;}
+.justify-content-end {width: 286px;right:131px!important; position: absolute;top: -15px;}
+.lappyboard {margin-top: 1px;}
+.radio-stock-img > img{height: 160px;}
+.radio-stock-img .selectImg{width: 82%;margin-left: 26px; margin-top:-97%;}
+.radio-stock-img .selectimg2{width: 82%;margin-left: 26px; margin-top:-97%;}
+.radio-stock-img .selectImg2 {width: 82%;margin-left: 26px; margin-top:-97%;}
+.card .adsFlagcard img{height: 247px;margin-top: 34px;}
+}
+@media screen  and  (min-width: 1024px) and (max-width:1200px){
+.bottomcash{width:660px;}.buttons {margin-right:-6%}
+.radio-stock-img > img{height: 160px;}
+.radio-stock-img .selectImg{width: 76%;margin-left: 32px; margin-top:-86%;}
+.radio-stock-img .selectimg2{width: 82%;margin-left: 26px; margin-top:-97%;}
+.radio-stock-img .selectImg2 {width: 70%;margin-left: 35px;margin-top: -84%;}
+.flagrow1{margin-top: -371px; margin-left: 19px;}.flagrow1 .flagP2M{margin-left: -5px;}
+.flagrow1 img{width: 48px;} 
+.flagrow2 img{width: 47px; margin-left: 51px;}.flagrow2{margin-left: 14px;margin-top: 9px;}
+.flagrow3 img{width: 48px;} .flagrow3{margin-top: 57px; margin-left: 19px;}.flagrow3 .flagY2M{margin-left: -5px;}
+.row4 .flagK2M{width: 47px;margin-top: 11px;}
+.flagdrop{margin-top: -127px;}
+.flagdrop2{margin-top: -134px;}
+#copy_desc{margin-right:5px;}
+#dest_copy{margin-left:5px}
+.card3 img{height: 72px;}
+.bottomcash{width:800px;}.buttons{margin-right:-6%}
+.cashbackground p{font-size: 18PX}.cashbackground img{width: 24px;}.cashbackground {min-width: 96px;}
+/* .topcash {top: 23px; left: 10px;} */
+.Pnlbtn{margin-bottom: -90px;}
+.justify-content-end {width: 330px;right:83px!important; position: absolute;top: -15px;}
+.bottomcash{bottom: 63px;}
+.buttons img {width: 135px;}
+}
+/*09-01-23 R*/
+/*iPad Pro 10.5*/
+@media screen and (width: 834px) and (height: 1112px){
+.lappyboard{margin-top: 400px}.bottomcash{width: 745px;}
+.topcash{top:402px;}
+.Transpbtnpn{top: 604px;}.startbtn{margin-left: 350px;margin-top: 120px;}
+.startbtn .button{height: 55px;width: 85px;}
+.Pnlbtn {margin-bottom: -879px;}.btn5{margin-left: 341px; margin-top: 74px;}
+.cashbackground p{font-size: 18px;}
+.cashbackground img{width: 20px}
+.cashbackground{min-width: 70px;}
+.btn-over-image{bottom: -14px;right: -46%;}
+.flagrow1 {margin-top: -294px;margin-left: 12px;}.flagrow1 img{width: 39px;}
+.flagP2M{margin-left:-6px;}
+.flagrow2 img{width: 35px;margin-left: 36px;}
+.flagrow3 {margin-top: 45px;margin-left: 13px;}.flagrow3 img{width: 38px;}
+.flagY2M{margin-left:-6px;}
+.row4 .flagK2M {width: 37px;margin-top: 9px;}
+.ItmodalBody{max-width: 745px;}.card-title{width: 245px;padding: 2px 10px;}
+.stimg{width: 120px;}.spimg2{width: 115px;}.spimg {width: 92px;}
+.Iteimg{width: 140px;}.imgiwidth{width: 110px;}.imgiwidth {width: 100px;}
+.productYear1{max-width: 798px;}
+}

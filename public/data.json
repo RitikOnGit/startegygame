@@ -1,0 +1,241 @@
+{
+  "cards": {
+    "count": 6,
+    "img_directory": "/djf/hdf",
+    "data": [
+      {
+        "c_id": "1",
+        "c_name": "c1",
+        "c_img_name": "Images/strategy-cards-images/Target Lower Tier (1).svg",
+        "c_invest": "2",
+        "c_desc": "Images/flip-card/flip Card-1.svg",
+        "selected": "assets/G-B-img/Slected-1.svg",
+        "order": 0,
+        "is_selected":0
+      },
+      {
+        "c_id": "2",
+        "c_name": "c1",
+        "c_img_name": "Images/strategy-cards-images/CRM (1).svg",
+        "c_invest": "5",
+        "c_desc": "Images/flip-card/flip Card-2.svg",
+        "selected": "assets/G-B-img/Slected-2.svg",
+        "order": 0,
+        "is_selected":0
+      },
+      {
+        "c_id": "3",
+        "c_name": "c1",
+        "c_img_name": "Images/strategy-cards-images/Customer Contact Center (1).svg",
+        "c_invest": "15",
+        "c_desc": "Images/flip-card/flip Card.svg",
+        "selected": "assets/G-B-img/Slected.svg",
+        "order": 0,
+        "is_selected":0
+      },
+      {
+        "c_id": "4",
+        "c_name": "c1",
+        "c_img_name": "Images/strategy-cards-images/Talent Management (1).svg",
+        "c_invest": "20",
+        "c_desc": "Images/flip-card/flip Card-3.svg",
+        "selected": "assets/G-B-img/Slected-3.svg",
+        "order": 0,
+        "is_selected":0
+      },
+      {
+        "c_id": "5",
+        "c_name": "c1",
+        "c_img_name": "Images/strategy-cards-images/Internet trial.svg",
+        "c_invest": "30",
+        "c_desc": "Images/flip-card/flip Card-4.svg",
+        "selected": "assets/G-B-img/Slected-4.svg",
+        "order": 0,
+        "is_selected":0
+      },
+      {
+        "c_id": "6",
+        "c_name": "c1",
+        "c_img_name": "Images/strategy-cards-images/Loyalty Card.svg",
+        "c_invest": "10",
+        "c_desc": "Images/flip-card/flip Card-5.svg",
+        "selected": "assets/G-B-img/Slected-5.svg",
+        "order": 0,
+        "is_selected":0
+      }
+      
+    ]
+  },
+  "products": {
+    "count": 6,
+    "img_directory": "/djsfjdf/hdf",
+    "data": [
+      {
+        "p_id": "1",
+        "p_name": "p1",
+        "p_img_name": "assets/Product Card/Product Cards/KHD_Selected.svg",
+        "p_invest": "2",
+        "p_desp": ["Images/Untitled/KHD.svg","Images/Untitled/KHD1.svg"],
+        "selected": "assets/G-B-img/Slected-1.svg",
+        "order": 0,
+        "is_selected":0
+      },
+      {
+        "p_id": "2",
+        "p_name": "p1",
+        "p_img_name": "Images/Product-Cards/EBT.svg",
+        "p_invest": "2",
+        "p_desp": ["Images/Untitled/EBD.svg","Images/Untitled/EBD1.svg","Images/Untitled/FLTC.svg","Images/Untitled/FLTC1.svg","Images/Untitled/EBD.svg","Images/Untitled/EBD1.svg","Images/Untitled/FLTC.svg","Images/Untitled/FLTC1.svg"],
+        "selected": "assets/G-B-img/Slected-4.svg",
+        "order": 0,
+        "is_selected":0
+      },
+      {
+        "p_id": "3",
+        "p_name": "p1",
+        "p_img_name": "Images/Product-Cards/VS.svg",
+        "p_invest": "2",
+        "p_desp": ["Images/Untitled/VS.svg","Images/Untitled/VS1.svg"],
+        "selected": "assets/G-B-img/Slected-5.svg",
+        "order": 0,
+        "is_selected":0
+      },
+      {
+        "p_id": "4",
+        "p_name": "p1",
+        "p_img_name": "assets/Product Card/Product Cards/Forex card.svg",
+        "p_invest": "2",
+        "p_desp": ["Images/Untitled/FLTC.svg","Images/Untitled/FLTC1.svg"],
+        "selected": "assets/G-B-img/Slected-3.svg",
+        "order": 0,
+        "is_selected":0
+      },
+      {
+        "p_id": "5",
+        "p_name": "p1",
+        "p_img_name": "Images/Product-Cards/MIBOSO.svg",
+        "p_invest": "2",
+        "p_desp": ["Images/Untitled/MO.svg","Images/Untitled/MO1.svg"],
+        "selected": "assets/G-B-img/Slected-2.svg",
+        "order": 0,
+        "is_selected":0
+      },
+      {
+        "p_id": "6",
+        "p_name": "p1",
+        "p_img_name": "Images/Product-Cards/AR.svg",
+        "p_invest": "2",
+        "p_desp": ["Images/Untitled/flip Card.svg","Images/Untitled/Group 12.svg"],
+        "selected": "assets/G-B-img/Slected.svg",
+        "order": 0,
+        "is_selected":0
+      }
+    ]
+  },
+  "flags_ads_spent": {
+    "count": 3,
+    "img_directory": "/djsfjdf/hdf",
+    "data": [
+      {
+        "f_id": "1",
+        "f_name": "f1",
+        "f_img_name": "assets/AD & M/green flag.svg",
+        "f_invest": "1",
+        "is_selected":0
+      },
+      {
+        "f_id": "2",
+        "f_name": "f2",
+        "f_img_name": "assets/AD & M/Purple flag.svg",
+        "f_invest": "2",
+        "is_selected":0
+      },
+      {
+        "f_id": "3",
+        "f_name": "f3",
+        "f_img_name": "assets/AD & M/Red flag.svg",
+        "f_invest": "3",
+        "is_selected":0
+      }
+    ]
+  },
+  "flags_incentive": {
+    "count": 3,
+    "img_directory": "/djsfjdf/hdf",
+    "data": [     
+        {
+          "f_id": "1",
+          "f_name": "f4",
+          "f_img_name": "assets/AD & M/Blue Flag.svg",
+          "f_invest": "1",
+          "is_selected":0
+        },
+        {
+          "f_id": "2",
+          "f_name": "f5",
+          "f_img_name": "assets/AD & M/Yellow flag.svg",
+          "f_invest": "2",
+          "is_selected":0
+        },
+        {
+          "f_id": "3",
+          "f_name": "f6",
+          "f_img_name": "assets/AD & M/Pink Flag.svg",
+          "f_invest": "3",
+          "is_selected":0
+        }
+    ]
+  },
+  "It_expense": {
+    "count": 3,
+    "img_directory": "/djsfjdf/hdf",
+    "data": [
+      {
+        "IE_id": "1",
+        "IE_name": "IE1",
+        "IE_img_name": "assets/IT & EXPENSE/Cash.svg",
+        "IE_invest": "2"
+        
+      },
+      {
+        "IE_id": "2",
+        "IE_name": "IE2",
+        "IE_img_name": "assets/IT & EXPENSE/Cash-1.svg",
+        "IE_invest": "4"
+      },
+      {
+        "IE_id": "3",
+        "IE_name": "IE3",
+        "IE_img_name": "assets/IT & EXPENSE/Cash-2.svg",
+        "IE_invest": "6"
+      }
+    ]
+  },
+  "customer_service": {
+    "count": 3,
+    "img_directory": "/djsfjdf/hdf",
+    "data": [
+      {
+        "CS_id": "1",
+        "CS_name": "CS1",
+        "CS_img_name": "assets/IT & EXPENSE/Cus.svg",
+        "CS_invest": "2"
+      },
+      {
+        "CS_id": "2",
+        "CS_name": "CS2",
+        "CS_img_name": "assets/IT & EXPENSE/Cus-1.svg",
+        "CS_invest": "4"
+      },
+      {
+        "CS_id": "3",
+        "CS_name": "CS3",
+        "CS_img_name": "assets/IT & EXPENSE/Cus-2.svg",
+        "CS_invest": "6"
+        
+      }
+    ]
+  }
+  
+}
+

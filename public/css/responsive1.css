@@ -1,0 +1,34 @@
+@media only screen and (min-width: 1601px) and (max-width: 1920px){
+	.sideicons{width:9rem; top: 9rem; left: 2.3rem;}
+	}
+@media only screen and (min-width: 1366px) and (max-width: 1439px){
+	.sideicons {width: 6rem;top:5.6rem;left: 1.3rem;} .sideicons .row img{margin:2px 0;}
+	}
+@media screen  and  (min-width: 1024px) and (max-width:1200px){	
+	.sideicons {width: 6rem; top: 4.2rem; left: 1.3rem;}
+	}
+
+
+/* /// css for querter rounds  /// */
+.textoverimg1 p{
+	color: #fff;
+	margin-bottom: 0;  
+	font-family: 'Rubik', sans-serif;
+	font-weight: 600;
+	text-transform: uppercase;
+  }
+  
+  #computeDis .textoverimg1 {margin-top: 1.9rem; margin-left: 2.3rem;}
+  #cosrecord1 .textoverimg1{margin-top: 1.3rem; margin-left: 2.3rem;}
+  /* #computeDis .textoverimg1 p{} */
+  /* #cosrecord1 .textoverimg1 p{} */
+  #cosrecord1 .textoverimg1 p, #computeDis .textoverimg1 p{ font-size: 16px;}
+  #computeDis .textoverimg1 p{ font-size: 15px;}
+  #computeTS .textoverimg1 .blocktitle{ font-size: 16px; line-height: 1.2;}
+  #computeTS .textoverimg1{
+	margin-left: 2.2rem;
+  }
+  
+/* /// css end for querter rounds  /// */
+
+
